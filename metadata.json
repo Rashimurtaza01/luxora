@@ -1,0 +1,6 @@
+{
+  "name": "LUXORA",
+  "description": "Luxury 5-Star Hotel Management System featuring executive analytics, room management, reservations, front desk operations, CRM, housekeeping, billing, and staff inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
